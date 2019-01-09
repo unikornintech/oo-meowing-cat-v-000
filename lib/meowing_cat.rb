@@ -7,4 +7,4 @@ class Cat
   end 
 end 
 
-maru.name = "Maru"
+meow
