@@ -1,6 +1,4 @@
-## code your solution here. 
-# define a class, called Cat 
-
+## code your solution here.
 class Cat 
   attr_accessor :meow
   
