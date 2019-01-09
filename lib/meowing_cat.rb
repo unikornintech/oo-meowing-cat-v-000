@@ -2,5 +2,5 @@
 # define a class, called Cat 
 
 class Cat 
-  
+  attr_accessor :meow
 end 
